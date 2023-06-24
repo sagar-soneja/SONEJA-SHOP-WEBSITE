@@ -1,5 +1,5 @@
 # Soneja's Shop ( A complete, fully functional Ecommerce Website )
-[Demo](https://sonejastore.herokuapp.com/)
+[Demo](https://soneja-store.onrender.com/)
 <br />
 <br />
 
